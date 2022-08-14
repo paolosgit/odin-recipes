@@ -1,0 +1,12 @@
+#maintitle {
+    font-family: "copperplate", fantasy;
+    text-align: center;
+}
+
+p, h2, ul{
+    font-family: "Lucida Console", monospace;
+}
+
+body {
+    background-color: #fae842;
+}
