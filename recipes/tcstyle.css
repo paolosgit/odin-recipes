@@ -1,0 +1,12 @@
+#maintitle {
+    font-family: "copperplate", fantasy;
+}
+
+h2 {
+    font-family: "Lucida Console", monospace;
+    background-color: seashell
+}
+
+p, ul, ol, a{
+    font-family: "Monaco", monospace;
+}
